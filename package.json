@@ -1,0 +1,14 @@
+{
+  "name": "event-stream-normalizer",
+  "version": "1.2.0",
+  "private": true,
+  "description": "Normalize JSONL event feeds into a stable analytics envelope.",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@northstar/event-schema": "file:packages/event-schema"
+  }
+}

@@ -1,0 +1,2 @@
+{"event":"checkout.started","timestamp":"2026-09-15T18:41:32Z","source":"storefront","cartId":"cart-1048"}
+{"eventName":"checkout.completed","createdAt":"2026-09-15T18:42:00Z","source":"payments","orderId":"A-1048","total":42.5}
